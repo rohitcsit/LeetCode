@@ -30,7 +30,3 @@ If you'd like to contribute, feel free to submit a pull request. Contributions, 
 3. Make your changes and commit them: `git commit -m 'Description of your changes'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
